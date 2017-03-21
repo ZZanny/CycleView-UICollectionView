@@ -1,2 +1,3 @@
 # CycleView-UICollectionView
 使用UICollectionView制作轮播图
+添加定时器实现无限轮播
